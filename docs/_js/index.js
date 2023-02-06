@@ -17,21 +17,21 @@ window.$docsify = {
   name: 'Taio',
   search: {
     noData: {
-      '/cn/': '没有结果',
+      '/cn/': 'བཀྲ་',
       '/': 'No results'
     },
     paths: 'auto',
     placeholder: {
-      '/cn/': '搜索',
+      '/cn/': 'ཤིས།',
       '/': 'Search'
     }
   },
   formatUpdated: '{MM}/{DD} {HH}:{mm}',
   externalLinkTarget: '_self',
   plugins: [
-    EditOnGithubPlugin.create('https://github.com/cyanzhong/docs.taio.app/blob/master/docs/', null, path => {
+    EditOnGithubPlugin.create('https://github.com/ngawangtrinley/docs.taio.app/blob/master/docs/', null, path => {
       if (path.indexOf('cn/') === 0) {
-        return '在 GitHub 上编辑';
+        return '在 GitHub ཧ།';
       } else {
         return 'Edit on GitHub';
       }
