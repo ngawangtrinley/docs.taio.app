@@ -76,8 +76,7 @@ erDiagram
 
 也即使用标识符 `mermaid` 嵌入其代码。
 
-## PlantUML
-[[EN]](https://ngawangtrinley.github.io/docs.taio.app/#/editor/diagrams?id=plantuml)
+## PlantUML [[བོད།]](https://ngawangtrinley.github.io/docs.taio.app/#/editor/diagrams?id=plantuml)
 
 此功能使用 [PlantUML](https://plantuml.com) 实现，您可以使用以下方式在 Markdown 内容中嵌入：
 
