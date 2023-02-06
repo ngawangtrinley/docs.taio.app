@@ -76,7 +76,7 @@ erDiagram
 
 That is, embedding the code using identifier `mermaid`.
 
-## PlantUML [[zh]](https://ngawangtrinley.github.io/docs.taio.app/#/cn/editor/diagrams?id=plantuml)
+## PlantUML [[zh]]([https://ngawangtrinley.github.io/docs.taio.app/#/cn/editor/diagrams?id=plantuml](https://ngawangtrinley.github.io/docs.taio.app/#/cn/editor/diagrams?id=plantuml-%e0%bd%96%e0%bd%bc%e0%bd%91%e0%bc%8d))
 
 This feature is implemented using [PlantUML](https://plantuml.com/), you can use it as following:
 
