@@ -10,7 +10,7 @@ After copying the content, you can save the clipboard using the following home s
 
 If you are using iOS 14, you can also use the home screen widget provided by Taio:
 
-<img src="../quick-start/assets/IMG_2.png" width="360" />
+<img src="/quick-start/assets/IMG_2.png" width="360" />
 
 For adding widgets to your home screen, please refer to the [guide](https://support.apple.com/en-us/HT207122) provided by Apple.
 
